@@ -9,10 +9,10 @@
     "Douglas Crockford <douglas@crockford.com>"
   ],
   "main": [
-    "js/json2.js",
-    "js/json_parse.js",
-    "js/json_parse_state.js",
-    "js/cycle.js"
+    "json2.js",
+    "json_parse.js",
+    "json_parse_state.js",
+    "cycle.js"
   ],
   "keywords": [
     "GitHub",
